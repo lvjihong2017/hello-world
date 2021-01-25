@@ -1,2 +1,2 @@
 # hello-world
-Just test
+Hi all~ Just test
